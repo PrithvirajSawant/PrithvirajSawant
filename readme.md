@@ -12,7 +12,7 @@ click [here](https://prithvirajsawant.github.io/)
 </div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/prithviraj-sawant/">
+  <a href="https://prithvirajsawant.github.io/">
     <img
       src="https://img.shields.io/badge/build-Chick%20Here-brightgreen?label=Portfolio%20Website&link=https%3A%2F%2Fprithvirajsawant.github.io%2F"
       alt="Website"
