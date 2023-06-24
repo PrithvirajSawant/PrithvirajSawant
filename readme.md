@@ -7,7 +7,7 @@
       alt="LinkedIn"
     />
     <img
-      src="https://img.shields.io/badge/build-Chick%20Here-brightgreen?label=Portfolio%20Website&link=https%3A%2F%2Fprithvirajsawant.github.io%2F"
+      src="https://img.shields.io/badge/build-Chick%20here-brightgreen?label=Portfolio%20Website&link=https%3A%2F%2Fprithvirajsawant.github.io%2F"
       alt="Website"
     />
   </a>
