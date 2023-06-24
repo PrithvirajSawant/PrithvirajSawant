@@ -1,5 +1,3 @@
-click [here](https://prithvirajsawant.github.io/)
-
 # Hello World 👋
 
 <div align="left">
