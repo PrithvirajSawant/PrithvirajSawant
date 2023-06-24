@@ -8,8 +8,8 @@ click [here](https://prithvirajsawant.github.io/)
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
     />
-
-    
+    <br/>
+    <br/>
     <img
       src="https://img.shields.io/badge/build-Chick%20Here-brightgreen?label=Portfolio%20Website&link=https%3A%2F%2Fprithvirajsawant.github.io%2F"
       alt="Website"
