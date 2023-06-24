@@ -11,6 +11,11 @@ click [here](https://prithvirajsawant.github.io/)
   </a>
 </div>
 
+<img
+  src="https://img.shields.io/dynamic/v1?logo=linkedin&label=LinkedIn&message=%E2%98%86&color=0072b1&url=https://www.linkedin.com/in/prithviraj-sawant/"
+  alt="LinkedIn"
+/>
+
 <br />
 
 - Loves a freshly brewed cup of coffee
