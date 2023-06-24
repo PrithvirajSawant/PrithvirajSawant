@@ -11,10 +11,14 @@ click [here](https://prithvirajsawant.github.io/)
   </a>
 </div>
 
-<img
+<div align="left">
+  <a href="https://www.linkedin.com/in/prithviraj-sawant/">
+    <img
   src="https://img.shields.io/dynamic/v1?logo=linkedin&label=LinkedIn&message=%E2%98%86&color=0072b1&url=https://www.linkedin.com/in/prithviraj-sawant/"
   alt="LinkedIn"
 />
+  </a>
+</div>
 
 <br />
 
