@@ -8,17 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=800&color=FFC300&center=true&width=1500&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer+%7C+Dev;Let's+build+the+future+together!" alt="Typing SVG" />
 </p>
 
-▄▄▄▄███▄▄▄▄ ▄████████ ▄████████ ▄████████
-▄██▀▀▀███▀▀▀██▄ ███ ███ ███ ███ ███ ███
-███ ███ ███ ███ █▀ ███ █▀ ███ █▀
-███ ███ ███ ▄███▄▄▄ ███ ▄███▄▄▄
-███ ███ ███ ▀▀███▀▀▀ ▀███████████ ▀▀███▀▀▀
-███ ███ ███ ███ █▄ ███ ███ █▄
-███ ███ ███ ███ ███ ▄█ ███ ███ ███
-▀█ ███ █▀ ██████████ ▄████████▀ ██████████
-
-
-Welcome to my GitHub profile! I'm a passionate Software Engineer with a focus on full-stack development. I’m constantly learning and working on innovative solutions for a wide range of challenges. Feel free to explore my repositories, connect with me, or drop a message!
+I'm a Software Engineer working on full-stack development and AI. I'm always learning and working on solutions to different problems. Feel free to explore my repositories, connect with me, or drop a message!
 
 ## 🚀 About Me
 
