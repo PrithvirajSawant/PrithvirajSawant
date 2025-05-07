@@ -5,11 +5,11 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=800&color=FFC300&center=true&width=1500&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer+%7C+Dev;Let's+build+the+future+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=800&color=FFC300&center=true&width=1500&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer;Let's+build+the+future+together!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
-I'm a Software Engineer working on full-stack development and AI. I'm always learning and working on solutions to different problems. Feel free to explore my repositories, connect with me, or drop a message!
+I'm a Software Engineer currently focused on full-stack development and AI. Feel free to connect or explore my work!
 
 - 🖥️ **Current Role**: Software Engineer at Greentin Solutions Pvt Ltd
 - 🔧 **Current Stack:**: Python, FastAPI, Angular V18, AngularJS, MySQL Workebench, TensorFlow, OpenCV, FaceNet, Matplotlib.
@@ -24,16 +24,11 @@ I'm a Software Engineer working on full-stack development and AI. I'm always lea
   <a href="https://prithvirajsawant.github.io/">
     <img src="https://img.shields.io/badge/build-Chick%20here-brightgreen?label=Portfolio%20&link=https%3A%2F%2Fprithvirajsawant.github.io%2F" alt="Website" />
   </a>
-  <a href="mailto:prithvirajsawant15@gmail.com">
-    <img src="https://img.shields.io/badge/contact-Email%20Me-blue?label=Send%20an%20Email&logo=gmail" alt="Email" />
-  </a>
 </div>
-
+[📫 Email me](mailto:prithvirajsawant15@gmail.com)
 
 ## 📈 My Major Work
 
 - **Machine Learning and Image Processing at ISRO-RRSC**: Worked on lake water quality detection using ML and image processing techniques.
 - **Multitenant System with Image Processing**: Building a system that processes images for real-time face recognition, attendance marking, and storage in BLOB format [In development ...].
-
-## 📫 Get in Touch
 
