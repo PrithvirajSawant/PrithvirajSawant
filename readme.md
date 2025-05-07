@@ -25,7 +25,7 @@ I'm a Software Engineer currently focused on full-stack development and AI. Feel
     <img src="https://img.shields.io/badge/build-Chick%20here-brightgreen?label=Portfolio%20&link=https%3A%2F%2Fprithvirajsawant.github.io%2F" alt="Website" />
   </a>
 </div>
-[📫 Email me](mailto:prithvirajsawant15@gmail.com)
+📫 [Email me](mailto:prithvirajsawant15@gmail.com)
 
 ## 📈 My Major Work
 
