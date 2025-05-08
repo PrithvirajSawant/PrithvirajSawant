@@ -9,7 +9,6 @@
 </p>
 
 ## About Me
-<span style="color: green;">This text is green</span>
 > I'm a Software Engineer currently focused on full-stack development and AI. Feel free to connect or explore my work!
 
 - 🖥️ **Current Role**: Software Engineer
