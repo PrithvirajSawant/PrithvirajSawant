@@ -11,7 +11,7 @@
 ## 🚀 About Me
 > I'm a Software Engineer currently focused on full-stack development and AI. Feel free to connect or explore my work!
 
-- 🖥️ **Current Role**: Software Engineer at Greentin Solutions Pvt Ltd
+- 🖥️ **Current Role**: Software Engineer
 - 🔧 **Current Stack**: Python, FastAPI, Angular V18, AngularJS, MySQL Workebench, TensorFlow, OpenCV, FaceNet, Matplotlib.
 
 ## 💼 Connect with Me
