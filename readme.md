@@ -1,4 +1,4 @@
-# Hello World 👋
+# Hello 🌍
 <!--
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1000&color=58A6FF&center=true&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer+%7C+AI+Enthusiast+%7C+Full-Stack+Dev;Let's+build+the+future+together!" alt="Typing SVG" />
