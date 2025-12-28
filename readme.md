@@ -11,11 +11,13 @@
 ## About Me
 > I'm a Software Engineer currently focused on full-stack development and AI. Feel free to connect or explore my work!
 
+<!--
 - 🖥️ **Current Role**: Software Engineer
 - 🔧 **Current Stack**: Python, FastAPI, Angular V18, AngularJS, MySQL Workebench, TensorFlow, OpenCV, FaceNet, Matplotlib.
+-->
 
 ## Connect with Me
-🤝 Open to ideas, collaborations, or just a thoughtful conversation—feel free to reach out.
+🤝 Open to ideas, collaborations—feel free to reach out.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/prithvirajsawant">
@@ -35,4 +37,4 @@
 ## My Major Work
 
 - **Machine Learning and Image Processing at ISRO-RRSC**: Worked on lake water quality detection using ML and image processing techniques.
-- **Multitenant System with Image Processing**: Building a system that processes images for real-time face recognition, attendance marking, and storage in BLOB format [In development ...].
+- **Multitenant System with Image Processing**: Building a system that processes images for real-time face recognition, attendance marking, and storage in BLOB format.
