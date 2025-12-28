@@ -9,7 +9,7 @@
 </p>
 
 ## About Me
-> I'm a Software Engineer currently focused on full-stack development and AI. Feel free to connect or explore my work!
+> I'm a Software Engineer currently focused on Image Processing & AI. Feel free to connect or explore my work!
 
 <!--
 - 🖥️ **Current Role**: Software Engineer
