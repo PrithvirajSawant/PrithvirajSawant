@@ -5,7 +5,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=800&color=FFC300&center=true&width=1500&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer;Let's+build+the+future+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=2000&pause=800&color=6A0DAD&center=true&width=1500&lines=Hi+there!+I'm+Prithviraj+Sawant.;Software+Engineer;Let's+build+the+future+together!" alt="Typing SVG" />
 </p>
 
 ## About Me
