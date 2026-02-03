@@ -37,4 +37,4 @@
 ## My Major Work
 
 - **Machine Learning and Image Processing at ISRO-RRSC**: Worked on lake water quality detection using ML and image processing techniques.
-- **Multitenant System with Image Processing**: Building a system that processes images for real-time face recognition, attendance marking, and storage in BLOB format.
+- **Multitenant System with Image Processing**: Building a system that processes images for real-time face recognition, attendance marking, and storage in BLOB format [in development].
